@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RnaTranscriptionTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2017-05-22T13:28:11" hostname="anael-HP-EliteBook-Folio-9470m" time="0.028">
+  <properties/>
+  <testcase name="cytosineIsGuanine" classname="RnaTranscriptionTest" time="0.024"/>
+  <testcase name="thymineIsAdenine" classname="RnaTranscriptionTest" time="0.0"/>
+  <testcase name="emptyDnaIsEmptyRna" classname="RnaTranscriptionTest" time="0.0"/>
+  <testcase name="rnaTranscription" classname="RnaTranscriptionTest" time="0.0"/>
+  <testcase name="guanineIsCytosine" classname="RnaTranscriptionTest" time="0.0"/>
+  <testcase name="adenineIsUracil" classname="RnaTranscriptionTest" time="0.0"/>
+  <system-out><![CDATA[G
+A
+UGCACCAGAAUU
+C
+U
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
